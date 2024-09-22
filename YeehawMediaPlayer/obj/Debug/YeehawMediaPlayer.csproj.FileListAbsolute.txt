@@ -1,0 +1,15 @@
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\bin\Debug\YeehawMediaPlayer.exe.config
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\bin\Debug\YeehawMediaPlayer.exe
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\bin\Debug\YeehawMediaPlayer.pdb
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\obj\Debug\YeehawMediaPlayer.csproj.AssemblyReference.cache
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\obj\Debug\YeehawMediaPlayer.csproj.ResolveComReference.cache
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\obj\Debug\YeehawMediaPlayer.Form1.resources
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\obj\Debug\YeehawMediaPlayer.Properties.Resources.resources
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\obj\Debug\YeehawMediaPlayer.csproj.GenerateResource.cache
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\obj\Debug\YeehawMediaPlayer.csproj.CoreCompileInputs.cache
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\obj\Debug\YeehawMediaPlayer.exe
+C:\Users\kak\Desktop\code\vs2019\YeehawMediaPlayer\YeehawMediaPlayer\obj\Debug\YeehawMediaPlayer.pdb
